@@ -61,5 +61,9 @@ If you're afraid, then try to use this [repository](https://github.com/ChrisTitu
 > I use figma to design my logo, and canva to create animations and stuffs, I hope it helps.
 
 ---
+### Neovim
+> I have a separated configuration for neovim, you may [look here](https://github.com/RyannKim327/astrovim-v4-template)
+
+---
 ### NOTE
 > Make sure you're aware in what you're doing, I don't have any responsibility if ever that it fails on yout device thou it worked on mine. Just do at your own risk.
