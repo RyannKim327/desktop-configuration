@@ -1,0 +1,16 @@
+[SddmGreeterTheme]
+Name=MPOP
+Description=The current theme of MPOP Reverse II
+Author=Ryann Kim Sesgundo
+Copyright=(c) 2025, Ryann Kim Sesgundo
+License=CC-BY-SA
+Type=sddm-theme
+Version=0.1
+Website=https://github.com/sddm/sddm
+Screenshot=maldives.png
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Email=weryses19@gmail.com
+Theme-Id=mpop
+Theme-API=2.0
