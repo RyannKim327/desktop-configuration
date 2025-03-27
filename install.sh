@@ -15,5 +15,9 @@ cp waybar ~/.config/waybar
 cp boot /boot/grub/themes
 cp sddm /usr/share/sddm
 
+cp .bashrc ~/.bashrc
+cp .zprofile ~/.zprofile
+cp .zshrc ~/.zshrc
+
 echo "Customized and cofiguration of RyannKim327"
 
