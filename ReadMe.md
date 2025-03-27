@@ -32,6 +32,10 @@
 7. NerdFont
 
 ---
+### Installation Notice
+> Please do backup first your configuration, before you run the `install.sh` script, I don't have any responsibility once you didn't create a backup for your prefered configurations.
+
+---
 ### Grub Bootloader
 > You may just copy the folder `my-boot` into this directory `/boot/grub/themes/`. Then configure the `/boot/grub/grub.cfg` and look for the `set theme=` in my editor it is in line 94. And paste the exact path of the theme.txt of your configured grub bootloader.
 If you're afraid, then try to use this [repository](https://github.com/ChrisTitusTech/Top-5-Bootloader-Themes) and configure the install.sh and add your theme.
